@@ -59,3 +59,13 @@ ul {
     font-size: 105%;
     margin: -3%;
 }
+@media screen and (min-width: 1000px) and (max-width: 1200px) {
+    .third-column {
+        display: none;
+    }
+}
+@media screen and (max-width: 850px) {
+    .flex-container-main {
+        flex-direction: column;
+    }
+}
