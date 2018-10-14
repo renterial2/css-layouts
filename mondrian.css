@@ -15,11 +15,12 @@ body {
 }
 .one {
     width: 11%;
-    height: 8.5%;
+    height: 9%;
     background-color: white;
     border-style: solid;
     border-color: rgb(93, 93, 93);
     border-width: 5px;
+    margin-top: -.3%;
 }
 .two {
     width: 7.25%;
@@ -46,7 +47,7 @@ body {
     border-width: 5px;
 }
 .five {
-    width: 20%;
+    width: 21%;
     height: 9%;
     background-color: white;
     border-style: solid;
@@ -54,18 +55,18 @@ body {
     border-width: 5px;
 }
 .six {
-    width: 22%;
-    height: 8.5%;
+    width: 22.2%;
+    height: 9%;
     background-color: white;
     border-style: solid;
     border-color: rgb(93, 93, 93);
     border-width: 5px;
-    margin-left: 11.75%;
-    margin-top: -61.95%;
+    margin-left: 11.8%;
+    margin-top: -62.2%;
 }
 .seven {
-    width: 25.7%;
-    height: 40%;
+    width: 26%;
+    height: 38%;
     background-color: red;
     border-style: solid;
     border-color:  rgb(93, 93, 93);
@@ -73,66 +74,86 @@ body {
     margin-left: 8%;
 }
 .eight {
-    width: 12%;
-    height: 18%;
+    width: 13%;
+    height: 19%;
+    background-color: black;
+    border-style: solid;
+    border-color:  rgb(93, 93, 93);
+    border-width: 5px;
+    margin-left: 8%;
+    margin-top: 0%;
+}
+.nine {
+    width: 13%;
+    height: 19%;
     background-color: white;
     border-style: solid;
     border-color:  rgb(93, 93, 93);
     border-width: 5px;
     margin-left: 8%;
-    margin-top: 12%;
-}
-.nine {
-    width: 6.1%;
-    height: 19%;
-    background-color: white;
-    border-style: solid;
-    border-color:  rgb(93, 93, 93);
-    border-width: 5px;
-    margin-left: 20.7%;
-    margin-top: -6%
+    margin-top: 0%;
 }
 .ten {
-    width: 6.1%;
+    width: 12%;
+    height: 8.9%;
+    background-color: white;
+    border-style: solid;
+    border-color:  rgb(93, 93, 93);
+    border-width: 5px;
+    margin-left: 21.8%;
+    margin-top: -25.1%
+}
+.eleven {
+    width: 12%;
+    height: 8.9%;
+    background-color: white;
+    border-style: solid;
+    border-color:  rgb(93, 93, 93);
+    border-width: 5px;
+    margin-left: 21.8%;
+    margin-top: 0%
+}
+.twelve {
+    width: 12%;
+    height: 8.9%;
+    background-color: black;
+    border-style: solid;
+    border-color:  rgb(93, 93, 93);
+    border-width: 5px;
+    margin-left: 21.8%;
+    margin-top: 0%;
+}
+.thirteen {
+    width: 5.8%;
+    height: 19%;
+    background-color: yellow;
+    border-style: solid;
+    border-color:  rgb(93, 93, 93);
+    border-width: 5px;
+    margin-left: 21.8%;
+    margin-top: -.10%
+}
+.fourteen {
+    width: 5.8%;
     height: 19%;
     background-color: white;
     border-style: solid;
     border-color:  rgb(93, 93, 93);
     border-width: 5px;
-    margin-left: 27.5%;
+    margin-left: 28%;
     margin-top: -12.6%;
 }
-.eleven {
-    width: 12.7%;
-    height: 8.5%;
-    background-color: white;
-    border-style: solid;
-    border-color:  rgb(93, 93, 93);
-    border-width: 5px;
-    margin-left: 21%;
-    margin-top: -30.6%
-}
-.twelve {
-    width: 12.7%;
-    height: 8.5%;
-    background-color: white;
-    border-style: solid;
-    border-color:  rgb(93, 93, 93);
-    border-width: 5px;
-    margin-left: 21%;
-    margin-top: -.1%;
-}
-.thirteen {
+.fifteen {
     width: 15%;
-    height: 8.5%;
+    height: 9%;
     background-color: yellow;
     border-style: solid;
     border-color:  rgb(93, 93, 93);
     border-width: 5px;
     margin-left: 34.5%;
-    margin-top: -43.6%;
+    margin-top: -62.3%;
 }
-.fourteen {
+.sixteen {
     width: 15%;
     height: 19.5%;
     background-color: yellow;
@@ -142,29 +163,9 @@ body {
     margin-left: 34.5%;
     margin-top: 0%;
 }
-.fifteen {
-    width: 7.1%;
-    height: 19.1%;
-    background-color: white;
-    border-style: solid;
-    border-color:  rgb(93, 93, 93);
-    border-width: 5px;
-    margin-left: 34.5%;
-    margin-top: 0%;
-}
-.sixteen {
-    width: 7%;
-    height: 19.1%;
-    background-color: white;
-    border-style: solid;
-    border-color:  rgb(93, 93, 93);
-    border-width: 5px;
-    margin-left: 42.5%;
-    margin-top: -12.7%;
-}
 .seventeen {
-    width: 15%;
-    height: 8.5%;
+    width: 7.1%;
+    height: 17.8%;
     background-color: white;
     border-style: solid;
     border-color:  rgb(93, 93, 93);
@@ -173,19 +174,19 @@ body {
     margin-top: -.2%;
 }
 .eighteen {
-    width: 15%;
-    height: 18.5%;
-    background-color: blue;
+    width: 7%;
+    height: 17.7%;
+    background-color: white;
     border-style: solid;
     border-color:  rgb(93, 93, 93);
     border-width: 5px;
-    margin-left: 34.5%;
-    margin-top: -.2%;
+    margin-left: 42.5%;
+    margin-top: -11.8%;
 }
 .nineteen {
     width: 15%;
-    height: 18.9%;
-    background-color: red;
+    height: 8.9%;
+    background-color: white;
     border-style: solid;
     border-color:  rgb(93, 93, 93);
     border-width: 5px;
@@ -194,17 +195,37 @@ body {
 }
 .twenty {
     width: 15%;
-    height: 18%;
+    height: 19.1%;
+    background-color: blue;
+    border-style: solid;
+    border-color:  rgb(93, 93, 93);
+    border-width: 5px;
+    margin-left: 34.5%;
+    margin-top: -.1%;
+}
+.twenty-one {
+    width: 15%;
+    height: 19.1%;
+    background-color: red;
+    border-style: solid;
+    border-color:  rgb(93, 93, 93);
+    border-width: 5px;
+    margin-left: 34.5%;
+    margin-top: 0%;
+}
+.twenty-two {
+    width: 15%;
+    height: 19%;
     background-color: blue;
     border-style: solid;
     border-color:  rgb(93, 93, 93);
     border-width: 5px;
     margin-left: 50.2%;
-    margin-top: -62.2%;
+    margin-top: -62.3%;
 }
-.twenty-one {
+.twenty-three {
     width: 15%;
-    height: 18%;
+    height: 19%;
     background-color: red;
     border-style: solid;
     border-color:  rgb(93, 93, 93);
@@ -212,40 +233,20 @@ body {
     margin-left: 50.2%;
     margin-top: 0%;
 }
-.twenty-two {
-    width: 15%;
-    height: 10%;
-    background-color: white;
-    border-style: solid;
-    border-color:  rgb(93, 93, 93);
-    border-width: 5px;
-    margin-left: 50.2%;
-    margin-top: 0%;
-}
-.twenty-three {
-    width: 7.2%;
-    height: 18.9%;
-    background-color: white;
-    border-style: solid;
-    border-color:  rgb(93, 93, 93);
-    border-width: 5px;
-    margin-left: 50.2%;
-    margin-top: 0%;
-}
 .twenty-four {
-    width: 7.2%;
-    height: 18.9%;
+    width: 15%;
+    height: 8.9%;
     background-color: white;
     border-style: solid;
     border-color:  rgb(93, 93, 93);
     border-width: 5px;
-    margin-left: 58%;
-    margin-top: -12.5%;
+    margin-left: 50.2%;
+    margin-top: -.5%;
 }
 .twenty-five {
-    width: 15%;
-    height: 18%;
-    background-color: yellow;
+    width: 7%;
+    height: 18.6%;
+    background-color: white;
     border-style: solid;
     border-color:  rgb(93, 93, 93);
     border-width: 5px;
@@ -253,8 +254,28 @@ body {
     margin-top: 0%;
 }
 .twenty-six {
+    width: 7.1%;
+    height: 18.6%;
+    background-color: white;
+    border-style: solid;
+    border-color:  rgb(93, 93, 93);
+    border-width: 5px;
+    margin-left: 58%;
+    margin-top: -12.3%;
+}
+.twenty-seven {
     width: 15%;
-    height: 9.8%;
+    height: 18.6%;
+    background-color: yellow;
+    border-style: solid;
+    border-color:  rgb(93, 93, 93);
+    border-width: 5px;
+    margin-left: 50.2%;
+    margin-top: 0%;
+}
+.twenty-eight {
+    width: 7%;
+    height: 9%;
     background-color: white;
     border-style: solid;
     border-color:  rgb(93, 93, 93);
@@ -262,23 +283,164 @@ body {
     margin-left: 50.2%;
     margin-top: 0%;
 }
-.twenty-seven {
-    width: 7.5%;
-    height: 9.8%;
+.twenty-nine {
+    width: 7%;
+    height: 9%;
+    background-color: black;
+    border-style: solid;
+    border-color:  rgb(93, 93, 93);
+    border-width: 5px;
+    margin-left: 58.1%;
+    margin-top: -6.5%;
+}
+.thirty {
+    width: 6.5%;
+    height: 9%;
     background-color: yellow;
     border-style: solid;
     border-color:  rgb(93, 93, 93);
     border-width: 5px;
     margin-left: 66%;
-    margin-top: -62.2%;
+    margin-top: -62%;
 }
-.twenty-eight {
-    width: 7.5%;
-    height: 9.8%;
+.thirty-one {
+    width: 6.5%;
+    height: 9.2%;
     background-color: black;
     border-style: solid;
     border-color:  rgb(93, 93, 93);
     border-width: 5px;
-    margin-left: 74.3%;
-    margin-top: -6.95%;
+    margin-left: 73.4%;
+    margin-top: -6.5%;
+}
+.thirty-two {
+    width: 14%;
+    height: 8.9%;
+    background-color: yellow;
+    border-style: solid;
+    border-color:  rgb(93, 93, 93);
+    border-width: 5px;
+    margin-left: 66%;
+    margin-top: -.2%;
+}
+.thirty-three {
+    width: 14%;
+    height: 9.2%;
+    background-color: black;
+    border-style: solid;
+    border-color:  rgb(93, 93, 93);
+    border-width: 5px;
+    margin-left: 66%;
+    margin-top: -.3%;
+}
+.thirty-four {
+    width: 14%;
+    height: 8.8%;
+    background-color: white;
+    border-style: solid;
+    border-color:  rgb(93, 93, 93);
+    border-width: 5px;
+    margin-left: 66%;
+    margin-top: -.3%;
+}
+.thirty-five {
+    width: 14%;
+    height: 8.8%;
+    background-color: white;
+    border-style: solid;
+    border-color:  rgb(93, 93, 93);
+    border-width: 5px;
+    margin-left: 66%;
+    margin-top: -.2%;
+}
+
+.thirty-seven {
+    width: 26.3%;
+    height: 38.7%;
+    background-color: blue;
+    border-style: solid;
+    border-color:  rgb(93, 93, 93);
+    border-width: 5px;
+    margin-left: 66%;
+    margin-top: -.1%;
+}
+.thirty-eight {
+    width: 20%;
+    height: 9%;
+    background-color: white;
+    border-style: solid;
+    border-color:  rgb(93, 93, 93);
+    border-width: 5px;
+    margin-left: 66%;
+    margin-top: 0%;
+}
+.thirty-nine {
+    width: 18.8%;
+    height: 8.9%;
+    background-color: white;
+    border-style: solid;
+    border-color:  rgb(93, 93, 93);
+    border-width: 5px;
+    margin-left: 80.5%;
+    margin-top: -62%;
+}
+.forty {
+    width: 11.8%;
+    height: 18.3%;
+    background-color: white;
+    border-style: solid;
+    border-color:  rgb(93, 93, 93);
+    border-width: 5px;
+    margin-left: 80.5%;
+    margin-top: 0%;
+}
+.forty-one {
+    width: 11.8%;
+    height: 19.4%;
+    background-color: black;
+    border-style: solid;
+    border-color:  rgb(93, 93, 93);
+    border-width: 5px;
+    margin-left: 80.5%;
+    margin-top: 0%;
+}
+.fifty {
+    width: 6%;
+    height: 28.5%;
+    background-color: yellow;
+    border-style: solid;
+    border-color:  rgb(93, 93, 93);
+    border-width: 5px;
+    margin-left: 93.2%;
+    margin-top: -25%;
+}
+.fifty-one {
+    width: 6%;
+    height: 28.5%;
+    background-color: white;
+    border-style: solid;
+    border-color:  rgb(93, 93, 93);
+    border-width: 5px;
+    margin-left: 93.2%;
+    margin-top: 0%;
+}
+.fifty-two {
+    width: 6%;
+    height: 18.8%;
+    background-color: white;
+    border-style: solid;
+    border-color:  rgb(93, 93, 93);
+    border-width: 5px;
+    margin-left: 93.2%;
+    margin-top: 0%;
+}
+.fifty-three {
+    width: 12.2%;
+    height: 9%;
+    background-color: white;
+    border-style: solid;
+    border-color:  rgb(93, 93, 93);
+    border-width: 5px;
+    margin-left: 86.9%;
+    margin-top: 0%;
 }
